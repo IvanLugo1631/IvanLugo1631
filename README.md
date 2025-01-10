@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi there 👋, I'm Ivan Lugo!
 
-<!--
-**IvanLugo1631/IvanLugo1631** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###🚀 About Me
+S
+enior Software Developer specializing in backend engineering with 4+ years of experience in building scalable systems. My expertise spans:
 
-Here are some ideas to get you started:
+🔧 Backend development with Python, TypeScript, Node.js, and Golang
+🏗️ Microservices architecture using Flask, FastAPI, and Express
+☁️ Cloud platforms deployment (AWS, GCP)
+🔄 Real-time communication systems for ERP, CRM, and E-commerce
+🛠️ API development (REST, GraphQL) and middleware solutions
+📊 Database management (MySQL, PostgreSQL, MongoDB, BigQuery)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔥 Current Focus
+
+📚 Deepening knowledge in Kafka and Elasticsearch
+🌐 Exploring cloud-native architectures
+🤖 Implementing event-driven systems
+📈 Scaling distributed systems
+
+💻 Technical Expertise
+
+🛠️ Featured Projects
+🌟 Project 1: Project Name
+Brief description of the project highlighting key technologies and achievements.
+🚀 Project 2: Project Name
+Brief description of another significant project.
+📈 GitHub Analytics
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IvanLugo1631&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanLugo1631&layout=compact&langs_count=8&theme=radical"/>
+</div>
+🏆 Certifications & Achievements
+
+Certification Name - Issuing Organization
+Award/Recognition - Details
+
+📫 Let's Connect!
+
+💼 LinkedIn
+🌐 Personal Website/Blog
+📧 Email
+
+🎯 Professional Interests
+
+Event-Driven Architecture
+System Design & Scalability
+Cloud-Native Development
+Performance Optimization
+DevOps & Automation
+
+
+<div align="center">
+  <img src="https://komarev.com/ghpvs/?username=IvanLugo1631&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+</div>
+<div align="center">
+"Code is like humor. When you have to explain it, it's bad." – Cory House
+</div>
