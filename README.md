@@ -1,8 +1,7 @@
 # Hi there 👋, I'm Ivan Lugo!
 
 ###🚀 About Me
-S
-enior Software Developer specializing in backend engineering with 4+ years of experience in building scalable systems. My expertise spans:
+Senior Software Developer specializing in backend engineering with 4+ years of experience in building scalable systems. My expertise spans:
 
 🔧 Backend development with Python, TypeScript, Node.js, and Golang
 🏗️ Microservices architecture using Flask, FastAPI, and Express
@@ -21,10 +20,7 @@ enior Software Developer specializing in backend engineering with 4+ years of ex
 💻 Technical Expertise
 
 🛠️ Featured Projects
-🌟 Project 1: Project Name
-Brief description of the project highlighting key technologies and achievements.
-🚀 Project 2: Project Name
-Brief description of another significant project.
+
 📈 GitHub Analytics
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IvanLugo1631&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -32,8 +28,7 @@ Brief description of another significant project.
 </div>
 🏆 Certifications & Achievements
 
-Certification Name - Issuing Organization
-Award/Recognition - Details
+
 
 📫 Let's Connect!
 
