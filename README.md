@@ -44,8 +44,6 @@ Senior Software Developer specializing in backend engineering with 4+ years of e
 - Event-driven systems
 - Distributed systems scaling
 
-## 🛠️ Featured Projects
-[Your projects section here]
 
 ## 📈 GitHub Analytics
 <div align="center">
