@@ -1,53 +1,63 @@
 # Hi there 👋, I'm Ivan Lugo!
 
-###🚀 About Me
+## 🚀 About Me
 Senior Software Developer specializing in backend engineering with 4+ years of experience in building scalable systems. My expertise spans:
 
-🔧 Backend development with Python, TypeScript, Node.js, and Golang
-🏗️ Microservices architecture using Flask, FastAPI, and Express
-☁️ Cloud platforms deployment (AWS, GCP)
-🔄 Real-time communication systems for ERP, CRM, and E-commerce
-🛠️ API development (REST, GraphQL) and middleware solutions
-📊 Database management (MySQL, PostgreSQL, MongoDB, BigQuery)
+## 💻 Technical Skills
+- 🔧 Backend Development:
+  - Python
+  - TypeScript
+  - Node.js
+  - Golang
 
-🔥 Current Focus
+- 🏗️ Frameworks & Architecture:
+  - Flask
+  - FastAPI
+  - Express
+  - Microservices
 
-📚 Deepening knowledge in Kafka and Elasticsearch
-🌐 Exploring cloud-native architectures
-🤖 Implementing event-driven systems
-📈 Scaling distributed systems
+- ☁️ Cloud & Deployment:
+  - AWS
+  - GCP
+  - Cloud-native architectures
 
-💻 Technical Expertise
+- 🔄 System Integration:
+  - ERP Systems
+  - CRM Platforms
+  - E-commerce Solutions
+  - Real-time communication
 
-🛠️ Featured Projects
+- 🛠️ API & Development:
+  - REST
+  - GraphQL
+  - Middleware solutions
 
-📈 GitHub Analytics
+- 📊 Databases:
+  - MySQL
+  - PostgreSQL
+  - MongoDB
+  - BigQuery
+
+## 📚 Current Focus
+- Kafka
+- Elasticsearch
+- Event-driven systems
+- Distributed systems scaling
+
+## 🛠️ Featured Projects
+[Your projects section here]
+
+## 📈 GitHub Analytics
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IvanLugo1631&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanLugo1631&layout=compact&langs_count=8&theme=radical"/>
 </div>
-🏆 Certifications & Achievements
 
+## 🎯 Professional Interests
+- Event-Driven Architecture
+- System Design & Scalability
+- Cloud-Native Development
+- Performance Optimization
+- DevOps & Automation
 
-
-📫 Let's Connect!
-
-💼 LinkedIn
-🌐 Personal Website/Blog
-📧 Email
-
-🎯 Professional Interests
-
-Event-Driven Architecture
-System Design & Scalability
-Cloud-Native Development
-Performance Optimization
-DevOps & Automation
-
-
-<div align="center">
-  <img src="https://komarev.com/ghpvs/?username=IvanLugo1631&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
-</div>
-<div align="center">
-"Code is like humor. When you have to explain it, it's bad." – Cory House
-</div>
+> "Code is like humor. When you have to explain it, it's bad." – Cory House
